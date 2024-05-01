@@ -1,0 +1,56 @@
+/* .class {
+  color: rgb(29, 231, 18);
+}*/
+/* header {
+  background-color: black;
+  color: white;
+}
+footer {
+  background-color: black;
+  color: white;
+} */
+
+/*style for root container */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+/* Style for header */
+header {
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+
+/* style for each question */
+p {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+  width: 80%;
+  max-width: 500px;
+}
+
+/* style for footer */
+footer {
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+h1 {
+  background-color: black;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
